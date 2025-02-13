@@ -1,0 +1,8 @@
+setup.py
+openslide_extended/__init__.py
+openslide_extended/openslide_extended.py
+openslide_extended.egg-info/PKG-INFO
+openslide_extended.egg-info/SOURCES.txt
+openslide_extended.egg-info/dependency_links.txt
+openslide_extended.egg-info/requires.txt
+openslide_extended.egg-info/top_level.txt

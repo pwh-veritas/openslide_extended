@@ -1,0 +1,1 @@
+from .openslide_extended import OpenSlideExtended
